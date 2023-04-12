@@ -1,0 +1,26 @@
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\bin\Debug\LEJO Farm Management System 2.exe.config
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\bin\Debug\LEJO Farm Management System 2.exe
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\bin\Debug\LEJO Farm Management System 2.pdb
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\bin\Debug\LEJO Farm Management System 2.xml
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Analysis.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Book_Keeping.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Farms.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Login.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Main.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Resources.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Owners.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Production.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Report.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO Farm Management System 2.vbproj.GenerateResource.Cache
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO Farm Management System 2.exe
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO Farm Management System 2.xml
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO Farm Management System 2.pdb
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.MAnalysis.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.MBook_Keeping.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.MFarm.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.MProduction.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.MReport.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.OAnalysis.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.OBook_Keeping.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.OProduction.resources
+E:\Paul\PSS PROJ\LEJO Farm Management System 2\LEJO Farm Management System 2\obj\x86\Debug\LEJO_Farm_Management_System_2.Form1.resources

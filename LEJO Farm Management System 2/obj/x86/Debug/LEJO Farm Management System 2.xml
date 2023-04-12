@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LEJOFarmManagementSystem2
+</name>
+</assembly>
+<members>
+<member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.Book_keepingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.FarmDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.OwnerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.ProductionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.Book_keepingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.FarmRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.OwnerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.ProductionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.Book_keepingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.FarmRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.OwnerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet.ProductionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.Book_keepingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.FarmTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.OwnerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.ProductionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LEJO_Farm_Management_System_2.Lejo_DB_2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LEJO_Farm_Management_System_2.Lejo_DB_2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LEJO_Farm_Management_System_2.Lejo_DB_2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.TableAdapterManager.UpdateAll(LEJO_Farm_Management_System_2.Lejo_DB_2DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.Lejo_DB_2DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:LEJO_Farm_Management_System_2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LEJO_Farm_Management_System_2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:LEJO_Farm_Management_System_2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
